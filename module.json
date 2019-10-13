@@ -1,0 +1,16 @@
+{
+	"servers": [
+		"https://raw.githubusercontent.com/codeagon/BadGUI2/master/"
+	],
+	"supportUrl": "https://discord.gg/uhDAXWQ",
+	"disableAutoUpdate": true,
+	"name": "BadGUI2 GPK Loader",
+	"author": "Pentagon",
+	"description": "Toolbox to proxy GUI thing",
+	"version": "6.69a",
+	"options": {
+		"niceName": "badGUIGPK"
+	},
+	"donationUrl": "https://ko-fi.com/codeagon",
+	"category": "client"
+}
