@@ -1,6 +1,6 @@
 {
 	"servers": [
-		"https://raw.githubusercontent.com/codeagon/BadGUI2/master/"
+		"https://raw.githubusercontent.com/codeagon/badGUILoader/master/"
 	],
 	"supportUrl": "https://discord.gg/uhDAXWQ",
 	"disableAutoUpdate": false,
