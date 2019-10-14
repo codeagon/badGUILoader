@@ -3,7 +3,7 @@
 		"https://raw.githubusercontent.com/codeagon/BadGUI2/master/"
 	],
 	"supportUrl": "https://discord.gg/uhDAXWQ",
-	"disableAutoUpdate": true,
+	"disableAutoUpdate": false,
 	"name": "BadGUI2 GPK Loader",
 	"author": "Pentagon",
 	"description": "Toolbox to proxy GUI thing",
