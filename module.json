@@ -9,7 +9,8 @@
 	"description": "Toolbox to proxy GUI thing",
 	"version": "6.69a",
 	"options": {
-		"niceName": "badGUIGPK"
+		"niceName": "badGUIGPK",
+		"guiName": "badGUI GPK Loader"
 	},
 	"donationUrl": "https://ko-fi.com/codeagon",
 	"category": "client"
