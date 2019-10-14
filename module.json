@@ -4,12 +4,12 @@
 	],
 	"supportUrl": "https://discord.gg/uhDAXWQ",
 	"disableAutoUpdate": false,
-	"name": "BadGUI2 GPK Loader",
+	"name": "badGUILoader",
 	"author": "Pentagon",
 	"description": "Toolbox to proxy GUI thing",
 	"version": "6.69a",
 	"options": {
-		"niceName": "badGUIGPK",
+		"niceName": "badGUILoader",
 		"guiName": "badGUI GPK Loader"
 	},
 	"donationUrl": "https://ko-fi.com/codeagon",
