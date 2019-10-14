@@ -13,7 +13,5 @@
 		"guiName": "badGUI GPK Loader"
 	},
 	"donationUrl": "https://ko-fi.com/codeagon",
-	"category": "client",
-	"badGUI": "https://raw.githubusercontent.com/codeagon/badGUI/master/module.json"
-	}
+	"category": "client"
 }
